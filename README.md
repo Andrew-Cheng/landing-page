@@ -1,2 +1,3 @@
 # landing-page
-landing page made with html and css
+
+Landing page created with HTML and CSS
